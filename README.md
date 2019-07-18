@@ -1,6 +1,8 @@
-# fibonacci_test
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+# fibonacci_nuxt_implementation
+Fibonacci NuxtJs Implementation.
 
-> Fibonacci sequence whereby the user
+> This application validates if a given number exists within a Fibonacci sequence range and can also list the numbers generated
 
 ## Build Setup
 
@@ -18,5 +20,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
