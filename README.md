@@ -1,4 +1,4 @@
-# Fibonacci Nuxt Implementation
+# Fibonacci - Nuxt Implementation
 Fibonacci NuxtJs Implementation.
 
 > This application validates if a given number exists within a Fibonacci sequence range and can also list the numbers generated
