@@ -47,7 +47,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="form-group">
-								<button class="btn btn-success" @click="computeResult('compute')">Compute</button>
+								<button class="btn btn-success" @click="computeResult('compute')">Submit</button>
                 <button class="btn btn-danger" @click="resetForm">Reset</button>
 							</div>
 						</div>
